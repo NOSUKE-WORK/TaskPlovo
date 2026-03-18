@@ -87,7 +87,7 @@ build.bat
 TaskPlovo is completely **free**.  
 If it's been useful to you, consider buying me a coffee — it keeps the project going! 🙏
 
-> 🎁 **[Support on BOOTH](https://YOUR_BOOTH_URL)**
+> 🎁 **[Support on BOOTH](https://nosuketools.booth.pm/items/8098939)**
 
 ---
 

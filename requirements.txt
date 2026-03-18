@@ -1,0 +1,7 @@
+ttkbootstrap>=1.10.0
+pystray>=0.19.4
+Pillow>=10.0.0
+pyinstaller>=6.0.0
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+openpyxl>=3.1.0

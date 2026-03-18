@@ -85,7 +85,8 @@ build.bat
 TaskPlovoは**無料**で公開しています。  
 もし役に立ったと感じていただけたら、開発継続の励みになります 🙏
 
-> 🎁 **[BOOTHで支援する](https://YOUR_BOOTH_URL)** ← 寄付はこちらから
+> 🎁 **[BOOTHで支援する]([https://YOUR_BOOTH_URL](https://nosuketools.booth.pm/items/8098939?_gl=1*1uqnclm*_ga*NDE5NjY0MDM1LjE3NzIxMjMwNzA.*_ga_RWT2QKJLDC*czE3NzM4Mzk3MDMkbzIkZzEkdDE3NzM4NDA1MDEkajU3JGwwJGgw))** ← 寄付はこちらから
+> 🎁 **[BOOTHで支援する]()** ← 寄付はこちらから
 
 ---
 
